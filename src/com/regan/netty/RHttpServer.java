@@ -14,6 +14,11 @@ import io.netty.handler.codec.http.HttpResponseEncoder;
 import io.netty.util.internal.logging.InternalLogger;
 import io.netty.util.internal.logging.InternalLoggerFactory;
 
+/**
+ * This is httpServer.
+ * @author gaokang
+ *
+ */
 public class RHttpServer {
 	
 	private static InternalLogger mLogger = InternalLoggerFactory.getInstance(RHttpServer.class);
