@@ -5,7 +5,6 @@ import com.regan.netty.RHttpServer;
 import io.netty.channel.ChannelFuture;
 import io.netty.util.internal.logging.InternalLogger;
 import io.netty.util.internal.logging.InternalLoggerFactory;
-
 public class RMain {
 	
 	private static InternalLogger mLogger = InternalLoggerFactory.getInstance(RMain.class);
